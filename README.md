@@ -65,4 +65,4 @@ BetaArb provides a comprehensive API surface for both frontend interactions and 
 
 <!-- Last Activity: 2026-01-29T11:16:19.627Z -->
 
-<!-- Last Activity: 2026-01-29T20:01:46.206Z -->
+<!-- Last Activity: 2026-01-29T21:01:41.140Z -->
